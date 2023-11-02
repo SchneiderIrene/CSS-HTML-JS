@@ -1,0 +1,34 @@
+React
+https://unpkg.com/react@18/umd/react.development.js
+
+oder
+
+<script
+      src="https://unpkg.com/react@18/umd/react.development.js"
+      crossorigin
+    ></script>
+
+
+
+
+
+React DOM
+https://unpkg.com/react-dom@18/umd/react-dom.development.js
+
+oder
+
+<script
+      src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
+      crossorigin
+    ></script>
+
+
+
+
+
+Babel
+https://unpkg.com/babel-standalone@6/babel.min.js
+
+oder
+
+<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
